@@ -1,0 +1,2 @@
+"use strict";(this.webpackChunkdiscord_app=this.webpackChunkdiscord_app||[]).push([[30799],{30799:(e,t,i)=>{Object.defineProperty(t,"__esModule",{value:!0});t.LottieUploadExperiment=void 0;var d=(0,i(373505).createExperiment)({kind:"guild",id:"2021-07_stickers_lottie_upload",label:"Lottie Sticker Uploads",defaultConfig:{enabled:!1},treatments:[{id:1,label:"Allow Lottie sticker uploads",config:{enabled:!0}}]});t.LottieUploadExperiment=d}}]);
+//# sourceMappingURL=1653084d33cf5707c5a2.js.map
